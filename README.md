@@ -1,13 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF8282&height=300&section=header&text=Jinchaeyeon&fontAlignY=40&fontSize=100&desc=(._____.)&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF8282&height=300&section=header&text=Jinchaeyeon&fontAlignY=40&fontColor=ffffff&fontSize=70&desc=(._____.)&descAlignY=65&animation=twinkling)
 
 <div align="center">
   <h4>안녕하세요! 👋</h4>
   <h4>프론트엔드 개발자 진채연입니다 :) </h4>
 	
   <h3>. . .</h3>
-  
-  <img src="https://img.shields.io/badge/jinchaeyeon@neurotx.org-EA4335?style=flat-square&logo=Gmail&logoColor=white"> <a href="https://www.instagram.com/_dim.chae_/" target="_blank"><img src="https://img.shields.io/badge/_dim.chae_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
+  <a href="#"><img src="https://img.shields.io/badge/jinchaeyeon@neurotx.org-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>  <a href="https://www.instagram.com/_dim.chae_/"><img src="https://img.shields.io/badge/_dim.chae_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <br /><br />
   <h3>. . .</h3>
   <h3>Tech Stack</h3>
@@ -27,7 +25,7 @@
  <br />
 
  <br />
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinchaeyeon&count_bg=%23BEBEBE&title_bg=%23FFFFFF&icon=baidu.svg&icon_color=%23726161&title=%C2%B7&edge_flat=false"/></a>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinchaeyeon&count_bg=%23FFDCDC&title_bg=%23FAB4B4&icon=baidu.svg&icon_color=%23FFFFFF&title=%C2%B7&edge_flat=false"/>
 
 <br />
 <br />
