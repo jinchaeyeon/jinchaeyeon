@@ -8,6 +8,7 @@
   <h3>My Information</h3>
   <a href="#"><img src="https://img.shields.io/badge/jinchaeyeon@neurotx.org-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>   <a href="#"><img src="https://img.shields.io/badge/jinchaeyeon@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/></a>  <a href="https://www.instagram.com/_dim.chae_/"><img src="https://img.shields.io/badge/_dim.chae_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <br />
+  <br />
   <h3>. . .</h3>
   <h3>Tech Stack</h3>
   <div class="stack">
@@ -23,6 +24,7 @@
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
 	</div>
+ <br />
  <br />
  <h3>. . .</h3>
  <h3>Today views</h3>
