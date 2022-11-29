@@ -32,11 +32,11 @@
 
 <h3>. . .</h3>
   
-![jinchaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinchaeyeon&show_icons=true)
+![jinchaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinchaeyeon&show_icons=true&theme=swift)
   
 <h3>. . .</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinchaeyeon&layout=Demo)	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinchaeyeon&layout=Demo&theme=swift)	
 </div>
 
 
