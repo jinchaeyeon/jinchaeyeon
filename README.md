@@ -2,8 +2,8 @@
 
 <img src="https://img.shields.io/badge/jinchaeyeon@neurotx.org-EA4335?style=flat-square&logo=Gmail&logoColor=white"> <a href="https://www.instagram.com/_dim.chae_/" target="_blank"><img src="https://img.shields.io/badge/_dim.chae_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-i work at neurotx.org Now.
-Intersted in JS, React.
+<h4>i work at neurotx.org Now.</h4>
+<h4>Intersted in JS, React.</h4>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
   
