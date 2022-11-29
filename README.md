@@ -5,7 +5,7 @@
   <h4>프론트엔드 개발자 진채연입니다 :) </h4>
 	
   <h3>. . .</h3>
-  <a href="#"><img src="https://img.shields.io/badge/jinchaeyeon@neurotx.org-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>  <a href="https://www.instagram.com/_dim.chae_/"><img src="https://img.shields.io/badge/_dim.chae_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/jinchaeyeon@neurotx.org-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>   <a href="#"><img src="https://img.shields.io/badge/jinchaeyeon@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/></a>  <a href="https://www.instagram.com/_dim.chae_/"><img src="https://img.shields.io/badge/_dim.chae_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <br /><br />
   <h3>. . .</h3>
   <h3>Tech Stack</h3>
