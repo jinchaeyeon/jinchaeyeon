@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/jinchaeyeon@neurotx.org-EA4335?style=flat-square&logo=Gmail&logoColor=white"> <a href="https://www.instagram.com/_dim.chae_/" target="_blank"><img src="https://img.shields.io/badge/_dim.chae_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
   <br /><br />
+  <h3>. . .</h3>
   <h3>Tech Stack</h3>
   <div class="stack">
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
