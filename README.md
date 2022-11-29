@@ -39,5 +39,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinchaeyeon&layout=Demo&theme=swift)	
 </div>
 
-
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=FF8282&height=130)
