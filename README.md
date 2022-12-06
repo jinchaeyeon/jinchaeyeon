@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=FF8282&height=300&section=header&text=Jinchaeyeon&fontAlignY=40&fontColor=ffffff&fontSize=70&desc=(._____.)&descAlignY=65&animation=twinkling&stroke=000000&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Cylinder&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=welcome%20:)&descAlignY=70)
 
 <div align="center">
   <h4>안녕하세요! 👋</h4>
