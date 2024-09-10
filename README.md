@@ -32,10 +32,6 @@
 	
 <br />
 <br />
-
-<h3>. . .</h3>
-  
-![jinchaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinchaeyeon&show_icons=true&theme=swift)
   
 <h3>. . .</h3>
 
