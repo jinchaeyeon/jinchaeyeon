@@ -32,10 +32,11 @@
 	
 <br />
 <br />
-  
-<h3>. . .</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinchaeyeon&layout=Demo&theme=swift)	
+<h3>. . .</h3>
+  
+![jinchaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinchaeyeon&show_icons=true&theme=swift)
+
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=FF8282&height=130)
